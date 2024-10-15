@@ -1,0 +1,15 @@
+*{
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+ 
+}
+.btn{
+   
+   
+    cursor: pointer;
+   
+}

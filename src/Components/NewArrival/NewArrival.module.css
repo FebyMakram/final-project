@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  
+}
+.post{
+    background-color: #FFF3E3;
+    width: 40%;
+    top: 55%;
+    right: 8%;
+    border-radius: 10px 0px 0px 0px;
+    position: absolute;
+     z-index: 2;
+}
+.pic{
+    width: 100%;
+    height:130vh;
+    background-image:url('../../Assets/Images/NewArrivalPic.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.btn{
+    background-color: rgba(184, 142, 47, 1);
+
+}
+.title{
+    color: rgba(184, 142, 47, 1);
+    font-family: Poppins;
+    font-size: 52px;
+    font-weight: 700;
+    
+}

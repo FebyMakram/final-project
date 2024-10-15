@@ -1,0 +1,53 @@
+/* .star{
+    color: yellow;
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+} */
+.bttn{
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 50px;
+ 
+}
+
+.navi{
+    background-color: rgba(249, 241, 231, 1);
+    width: 100%;
+    height: 12vh;
+    
+}
+.line{
+    width: 3px;
+    height: 25px;
+}
+
+.size button{
+    background-color: rgba(249, 241, 231, 1);
+    width: 50px;
+    height:50px;
+    border: 0px ;
+    border-radius: 10px;
+}
+.size button:hover{
+    background-color: rgba(184, 142, 47, 1) ;
+}
+
+.color button{
+    background-color: rgba(249, 241, 231, 1);
+    width: 30px;
+    height:30px;
+    border: 0px ;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.amount{
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+.compare{
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 50px;
+ 
+}

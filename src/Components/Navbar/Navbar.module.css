@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.logo{
+    width: 20%;
+    height:15% ;
+   padding-bottom: 10px;
+}
+.logoName {
+    font-family: Montserrat;
+     font-size: 34px;
+    font-weight: 700;
+    line-height: 41.45px;
+    text-align: left;
+
+}
+.cartSidebar{
+    background-color: #ff6600;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+
+}

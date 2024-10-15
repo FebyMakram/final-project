@@ -1,0 +1,58 @@
+.img{
+    width: 100%;
+    height: 200px;
+}
+ 
+.btn{
+   color: rgba(184, 142, 47, 1);
+    border: 1px solid  rgba(184, 142, 47, 1);
+    background-color: white;
+}
+.bttn{
+    color: rgba(184, 142, 47, 1);
+    position: absolute;
+    top: 30%;
+    border: none;
+    left: 25%;
+    
+}
+
+.pics .icon{
+    width: 20px;
+    height: 20px;
+   cursor: pointer;
+   
+}
+.pics {
+    position: absolute;
+    top: 65%;
+    
+}
+.pics button{
+    background-color: transparent;
+    color: white;
+    border: none;
+}
+.hoverOptions{
+    width: 100%;
+    height: 100%;
+    top: 0;
+    right: -100%;
+    position: absolute;
+    background-color:#212222e1 ;
+    transition: 1s;
+   
+   
+}
+.card{
+    overflow: hidden;
+    
+}
+.card:hover .hoverOptions .bttn{
+    pointer-events: auto;
+}
+.card:hover .hoverOptions{
+    right: 0;
+    pointer-events: none;
+  
+}
